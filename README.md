@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5sal-3106&label=Profile%20views&color=0e75b6&style=flat" alt="5sal-3106" /> </p>
 
-- 🔭 I’m currently working on **Office Staff Management System**
+- 🔭 I’m currently working on **Voice Assistant and Gesture Controlled Virtual Mouse**
 
 - 🌱 I’m currently learning **Cyber Security**
 
